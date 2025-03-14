@@ -1,7 +1,7 @@
-
 import streamlit as st
 import matplotlib.pyplot as plt
 from gtts import gTTS
+import io
 
 tabs = st.tabs(["📈 Welcome", "⏳ TTS"])
 with tabs[0]:
