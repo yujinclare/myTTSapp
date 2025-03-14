@@ -1,11 +1,6 @@
 
 import streamlit as st
-import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
-import qrcode
-from PIL import Image
-import streamlit.components.v1 as components  # For embedding YouTube videos
 from gtts import gTTS
 import io
 
