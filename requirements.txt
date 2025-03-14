@@ -1,3 +1,9 @@
 streamlit
 gtts
 matplotlib
+pandas
+numpy
+qrcode
+Image
+WordCloud
+io
